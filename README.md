@@ -7,3 +7,7 @@ Jusqu’à ce que la sorcière du village vienne jeter un sort sur le palais de 
 venez aider lino et ses compagnons  dans leur mission de sauvetage mission en affrontant toutes sortes d'ennemies et d'obstacle sur leurs chemins.
 
 let 's game
+
+
+
+!!!Atteintion le jeu est a installer sur MAMP ou XAMP car il utilise des fichiers PHP 
