@@ -1,0 +1,99 @@
+body {
+    /* background: #1c242d; */
+}
+
+.font {
+    background: url("img/font.png")no-repeat fixed center/cover;
+}
+
+.box {
+    border:  -59px solid #000000;
+    padding: 30px 25px 10px 25px;
+    background: white;
+    margin: 30px auto;
+    margin-top: 110px;
+    width: 360px;
+    border-radius: 5px;
+    background: rgba(3, 3, 3, 0.25);
+    box-shadow: 1px 1px 50px #000;
+}
+
+h1.box-logo a {
+    text-decoration: none;
+}
+
+h1.box-title {
+    color: #ffffff;
+    padding: 15px 25px;
+    line-height: 30px;
+    font-size: 25px;
+    text-align: center;
+    margin: -27px -26px 26px;
+}
+
+.box-button {
+    border-radius: 5px;
+    background: #231750;
+    text-align: center;
+    cursor: pointer;
+    font-size: 19px;
+    width: 100%;
+    height: 30px;
+    border-radius: 30px;
+    padding: 0;
+    color: #fff;
+    border: 0;
+    outline: 0;
+}
+
+.box-button:hover {
+    background: #e8622d;
+    transition: .7s;
+}
+
+.box-register {
+    text-align: center;
+    margin-bottom: 0px;
+    color: #fff;
+}
+
+.box-register a {
+    text-decoration: none;
+    font-size: 19px;
+    color: #e8622d;
+}
+
+.box-input {
+    font-size: 14px;
+    background: rgb(232, 240, 254);
+    border: 1px solid #ddd;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 347px;
+    height: 50px;
+}
+
+.box-input:focus {
+    outline: none;
+    border-color: #5c7186;
+}
+
+.sucess {
+    text-align: center;
+    color:#aa4502;
+    font-size: 24px;
+}
+
+.sucess a {
+    text-decoration: none;
+    color: #fff;
+}
+
+p.errorMessage {
+    background-color: #e66262;
+    border: #AA4502 1px solid;
+    padding: 5px 10px;
+    color: #FFFFFF;
+    border-radius: 3px;
+}
